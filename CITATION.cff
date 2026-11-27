@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or data, please cite the accompanying paper
+  (see preferred-citation below). To cite the code itself, use the
+  metadata in this file.
+type: software
+title: "chameleon_n1_planar_solutions"
+abstract: >-
+  Python package implementing exact analytic solutions for the n=1
+  chameleon field in planar systems consisting of an arbitrary number of
+  uniform-density layers, together with the data used to produce the
+  figures in the accompanying paper.
+authors:
+  - given-names: Chad
+    family-names: Briddon
+    email: chad.briddon@tuwien.ac.at
+    affiliation: "Atominstitut, Technische Universität Wien"
+    orcid: "https://orcid.org/0000-0002-3742-9818"
+version: 1.0.0
+date-released: 2026-11-23
+doi: 10.48436/hz49z-dzt77
+repository-code: "https://github.com/C-Briddon/chameleon_n1_planar_solutions"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - chameleon
+  - screened scalar fields
+  - dark energy
+  - fifth forces
+  - Casimir experiments
+  - CANNEX
+  - Jacobi elliptic functions
+preferred-citation:
+  type: article
+  title: >-
+    Exact analytic solutions for the $n=1$ chameleon field in planar
+    systems with an arbitrary number of uniform layers
+  authors:
+    - given-names: Chad
+      family-names: Briddon
+      affiliation: "Atominstitut, Technische Universität Wien"
+    - given-names: Mario
+      family-names: Pitschmann
+      affiliation: "Atominstitut, Technische Universität Wien"
+  year: 2026
+  month: 11
+  status: preprint
+  doi: 10.48550/arXiv.2611.30712
+  url: "https://arxiv.org/abs/2611.30712"
+  identifiers:
+    - type: other
+      value: "arXiv:2611.30712"
+      description: arXiv identifier
